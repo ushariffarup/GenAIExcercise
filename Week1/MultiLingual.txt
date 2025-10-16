@@ -1,0 +1,15 @@
+{
+  "model": "llama-3.3-70b-versatile",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a professional translator."
+    },
+    {
+      "role": "user",
+      "content": "Translate the following test instructions into Telugu: 'Today is bright day, Good Morning.'"
+    }
+  ],
+  "temperature": 0.3,
+  "max_tokens": 100
+}
